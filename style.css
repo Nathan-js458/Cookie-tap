@@ -1,0 +1,27 @@
+button {
+    margin: auto;
+    display: block;
+    text-align: center;
+    border-radius: 150px; 
+}
+
+div {
+    text-align: center;
+    color: #eecc77;
+}
+
+#texto {
+    font-size: 5em;
+}
+
+#pontuacao {
+    font-size: 15em;
+}
+
+body {
+    background-color: #762b00;
+}
+
+img {
+    border-radius: 150px;
+}
