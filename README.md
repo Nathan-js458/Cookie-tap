@@ -1,11 +1,12 @@
 Para baixar:
 
 Clica em code;
-Clica em "baixar zip"
+Clica em "download zip";
 
 Para jogar:
 
 Extraia o arquivo zip usando um programa tipo WinZip;
+Abra o arquivo `index.html`;
 
 Baixar pelo terminal:
 
